@@ -3,7 +3,7 @@
 SÃO VARIAVEIS PROPRIAS DO PHP
 	$GLOBALS --- é usada para acessar variaveis globais de qualquer script php. como por exemplo variaveis que estão fora de uma função e voce precisa de usar o seu valor.
 	$_SERVER --- é uma super global que contem informções sobre cabeçalhor caminhos e locais de script. é um array que contem varios indices. 
-	$_REQUEST
+	$_REQUEST --- oiii
 	$_POST
 	$_GET
 	$_FILES
