@@ -1,3 +1,16 @@
+<?php
+////filtros de validação ////
+/*
+funções (filter_input - filter_var)
+FILTER_VALIDATE_INT
+FILTER_VALIDATE_EMAIL
+FILTER_VALIDATE_FLOAT
+FILTER_VALIDATE_IP
+FILTER_VALIDATE_URL
+*/
+
+?>
+
 <!--<!DOCTYPE html>
 <html lang="en">
 <head>
